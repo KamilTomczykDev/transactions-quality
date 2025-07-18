@@ -2,10 +2,10 @@
 
 ## 📌 Project Overview
 
-This project implements a **data quality pipeline** in **Databricks**, designed to simulate a real-world data audit on transactional data using **Python (pandas)** and **SQL**.  
-It detects common data quality issues, applies business validation rules, and generates both a report and a cleaned version of the dataset.
+This project implements a **data quality pipeline** in **Databricks**, designed to simulate a real-world data audit on transactional data using **Python (pandas)**.  
+It detects common data quality issues, applies business validation rules, and generates a report.
 
-The pipeline was developed in **Databricks Notebooks** and uses both **PySpark/Pandas code** and **SQL queries** where appropriate.
+The pipeline was developed in **Databricks Notebooks** and uses **Pandas code**.
 
 ---
 
