@@ -91,7 +91,7 @@ The following notebook cells reflect each stage of the quality check:
 
 ## 🚀 Visualization (Databricks Dashboard)
 
-
+<img src="errors_visualization.png" />
 
 ---
 
