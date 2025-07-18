@@ -109,8 +109,8 @@ The following notebook cells reflect each stage of the quality check:
 
 1. Open your Databricks workspace (Community or Enterprise).
 2. Upload the `transactions.csv` file to `/FileStore/`.
-3. Import the notebook file (`transactions_pipeline.py` or `.ipynb`).
-4. Run notebook cells step-by-step (can switch between SQL and Python).
+3. Import the notebook file (`transactions_pipeline.ipynb`).
+4. Run notebook cells step-by-step.
 5. Check the outputs in DBFS.
 
 ---
