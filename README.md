@@ -89,6 +89,12 @@ The following notebook cells reflect each stage of the quality check:
 
 ---
 
+## 🚀 Visualization (Databricks Dashboard)
+
+
+
+---
+
 ## 📂 Output Files (stored in DBFS)
 
 - `/dbfs/FileStore/error_raport.csv` — summary of all violations  
